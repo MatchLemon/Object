@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true" >
+
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi0">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi1">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi2">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi3">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi4">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi5">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi6">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi7">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi8">
+    </item>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/animate_straight_zuzi9">
+    </item>
+    
+
+</animation-list>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 elements to &apos;PlayGame/src/com.playgame.ui&apos;&#x0D;&#x0A;- Destination element: &apos;PlayGame/src/com.playgame.ui&apos;" description="Copy compilation units" destination="=PlayGame/src&lt;com.playgame.ui" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1421819278414" units="0" version="1.0"/>
+</session>

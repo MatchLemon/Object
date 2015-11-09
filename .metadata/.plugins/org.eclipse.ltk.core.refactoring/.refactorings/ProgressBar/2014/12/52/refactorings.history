@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extracts string &apos;对话框&apos; into R.string.AAAAAX" description="Extracts string &apos;对话框&apos; into R.string.AAAAAX" file="/ProgressBar/res/layout/fragment_main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="EDIT_SOURCE" proj="/ProgressBar" rplc-all-java="false" rplc-all-xml="false" sel-end="3528" sel-start="3511" stamp="1419321236450" tok-esc="对话框" xml-attr-name="android:text"/>
+</session>
